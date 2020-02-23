@@ -38,4 +38,8 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
 or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-# Focus on having working filters with visual studio 2019
+# Boboloo changes
+
+The goal of this fork will be to provide easier access and a more modern learners guide to directshow development. With the changes on fork, one can simply build the directshow baseclasses (Windows-classic-samples\Samples\Win7Samples\multimedia\directshow\baseclasses\baseclasses.sln) and then all samples should be workings (i.e. filters, capture, etc).
+
+Currently working as of Visual Studio 2019, utilizing unicode v142 platform toolset.
